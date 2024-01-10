@@ -1,0 +1,14 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "gmail.com",
+    "countryCode": "Indonesia (+62)",
+    "phoneNumber": "+620813141334",
+    "addressLine1": "Address Line 1",
+    "addressLine2": "Address Line 2",
+    "state": "Jakarta",
+    "postalCode": "12345",
+    "country": "Indonesia",
+    "dateOfBirth": "12/12/1992",
+    "gender": "Male"
+}
